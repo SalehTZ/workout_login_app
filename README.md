@@ -1,6 +1,6 @@
 # Workout App
 
-A Workout app UI made using flutter.
+A Workout app UI made using flutter (with video backgrounds).
 
 App UI is inspired by [mhasanin126](https://www.instagram.com/mhasanin126) on instagram. [This](https://www.instagram.com/p/CWq8pyrAm1c/) is the specific UI.
 
